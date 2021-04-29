@@ -8,6 +8,6 @@ python 3.7 or later
  `*pip3 install (name of the library)`
 (on installing pip3 view this: https://pip.pypa.io/en/stable/cli/pip_install/)
 # how to install:
-1: download all libraries
-2: download all code
-3: run mainrobot.py
+* download all libraries
+* download all code
+* run mainrobot.py

@@ -5,7 +5,7 @@ I'll add a list of them all
 # software
 python 3.7 or later
 # installing libraries
- `*pip3 install (name of the library)`
+ `pip3 install (name of the library)`
 (on installing pip3 view this: https://pip.pypa.io/en/stable/cli/pip_install/)
 # how to install:
 * download all libraries
